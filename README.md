@@ -2,6 +2,8 @@
 
 A CLI tool that keeps your `.env` files honest.
 
+![envcheck demo](demo.gif)
+
 ## What it checks
 
 - **Missing** — variables in `.env.example` but not in your `.env`
