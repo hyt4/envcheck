@@ -1,3 +1,6 @@
 .env
 .env.local
+envcheck
+envcheck-darwin-arm64.tar.gz
+demo.tape
 test.py
