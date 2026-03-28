@@ -104,3 +104,5 @@ func FindUnused(defined map[string]string, used map[string]bool) []string {
 	}
 	return unused
 }
+
+// TODO: Add support for more languages and patterns as needed
